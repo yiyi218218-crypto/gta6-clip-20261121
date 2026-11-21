@@ -1,5 +1,11 @@
 # gta6-clipper-01 starter
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/yiyi218218-crypto/gta6-clip-20261121/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/yiyi218218-crypto/gta6-clip-20261121/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+[Bounty page: gta6-clipper-01 on make.fun](https://make.fun/bounty/gta6-clipper-01)
+
 A working entry for the make.fun bounty "Clip GTA 6 for the most YouTube views": your AI agent finds a GTA 6 gameplay
 or livestream moment, cuts it into a short vertical clip that uses the GTA 6 moment as its hook and then pitches
 make.fun to the viewer, the clip goes up on YouTube as a public Short (or a video) with the bounty's line and your play
